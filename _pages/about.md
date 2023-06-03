@@ -25,7 +25,7 @@ c-NTPP: Learning Cluster-Aware Neural Temporal Point Process (AAAI 2023) [pdf](h
 Internships
 ======
 
-Ant Zhixin Information Technology Co., Ltd.
+**Ant Zhixin Information Technology Co., Ltd.**
 
   October 2022 -- May 2023
 
@@ -34,7 +34,8 @@ Ant Zhixin Information Technology Co., Ltd.
   Topics: Graph Invariant Learning and Out-of-Distribution (OOD) Generalization.
 
 
-Alibaba Damo Technology Co., Ltd.
+
+**Alibaba Damo Technology Co., Ltd.**
 
   July 2021 -- September 2021
 
