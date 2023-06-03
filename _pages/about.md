@@ -28,10 +28,8 @@ Internships
 **Ant Zhixin Information Technology Co., Ltd.**
 
   October 2022 -- May 2023
-
-  Algorithm Engineer Intern       Hangzhou, China
-
-  Topics: Graph Invariant Learning and Out-of-Distribution (OOD) Generalization.
+  
+  Graph Invariant Learning and Out-of-Distribution (OOD) Generalization.
 
 
 
@@ -39,9 +37,7 @@ Internships
 
   July 2021 -- September 2021
 
-  Algorithm Engineer Intern       Hangzhou, China
-
-  Topics: Event Sequence Learning and Sequential Variational Inference. 
+  Event Sequence Learning and Sequential Variational Inference. 
 
 
 <!-- A data-driven personal website
