@@ -27,17 +27,17 @@ Internships
 
 **Ant Zhixin Information Technology Co., Ltd.**
 
-  October 2022 -- May 2023
+  - October 2022 -- May 2023
   
-  Graph Invariant Learning and Out-of-Distribution (OOD) Generalization.
+  - Graph Invariant Learning and Out-of-Distribution (OOD) Generalization.
 
 
 
 **Alibaba Damo Technology Co., Ltd.**
 
-  July 2021 -- September 2021
+  - July 2021 -- September 2021
 
-  Event Sequence Learning and Sequential Variational Inference. 
+  - Event Sequence Learning and Sequential Variational Inference. 
 
 
 <!-- A data-driven personal website
