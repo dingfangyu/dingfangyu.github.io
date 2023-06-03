@@ -14,9 +14,11 @@ This is the web page of Fangyu Ding, who is B.Eng & M.Eng (expected in 2024) fro
 Publications
 ======
 **Fangyu Ding**, Haiyang Wang, Zhixuan Chu, Tianming Li, Junchi Yan.
+
 S$^3$GIL: Learning Sparse and Soft Subgraph  for Graph Invariant Learning (NeurIPS 2023 Submission) [pdf](https://github.com/Arthur-99/Arthur-99.github.io/files/neurips_2023_S3GIL.pdf)
 
 **Fangyu Ding**, Junchi Yan, Haiyang Wang.
+
 c-NTPP: Learning Cluster-Aware Neural Temporal Point Process (AAAI 2023) [pdf](https://github.com/Arthur-99/Arthur-99.github.io/files/AAAI23_CSTPP.pdf) [code](https://github.com/Arthur-99/DeepSeqClustering)
 
 
@@ -24,14 +26,22 @@ Internships
 ======
 
 Ant Zhixin Information Technology Co., Ltd.
+
   October 2022 -- May 2023
+
   Algorithm Engineer Intern       Hangzhou, China
+
   Topics: Graph Invariant Learning and Out-of-Distribution (OOD) Generalization.
 
+
 Alibaba Damo Technology Co., Ltd.
+
   July 2021 -- September 2021
+
   Algorithm Engineer Intern       Hangzhou, China
+
   Topics: Event Sequence Learning and Sequential Variational Inference. 
+  
 
 <!-- A data-driven personal website
 ======
