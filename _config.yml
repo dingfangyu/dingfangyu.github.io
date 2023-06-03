@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fangyu Ding"
+title                    : "@Fangyu"
 title_separator          : "-"
 name                     : &name "Fangyu Ding"
 description              : &description "SJTU CS B.Eng & M.Eng"
