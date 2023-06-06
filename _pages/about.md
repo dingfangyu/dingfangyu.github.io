@@ -18,17 +18,17 @@ Publications
 ======
 **Fangyu Ding**, Haiyang Wang, Zhixuan Chu, Tianming Li, Junchi Yan.
 
-S$^3$GIL: Learning Sparse and Soft Subgraph  for Graph Invariant Learning (NeurIPS 2023 Submission) [pdf](https://github.com/Arthur-99/Arthur-99.github.io/tree/master/files/neurips_2023_S3GIL.pdf)
+S$^3$GIL: Learning Sparse and Soft Subgraph  for Graph Invariant Learning (NeurIPS 2023 Submission) [pdf](../files/neurips_2023_S3GIL.pdf)
 
 **Fangyu Ding**, Junchi Yan, Haiyang Wang.
 
-c-NTPP: Learning Cluster-Aware Neural Temporal Point Process (AAAI 2023) [pdf](https://github.com/Arthur-99/Arthur-99.github.io/tree/master/files/AAAI23_CSTPP.pdf) [code](https://github.com/Arthur-99/DeepSeqClustering)
+c-NTPP: Learning Cluster-Aware Neural Temporal Point Process (AAAI 2023) [pdf](../files/AAAI23_CSTPP.pdf) [code](https://github.com/Arthur-99/DeepSeqClustering)
 
 
 Internships
 ======
 
-**Ant Zhixin Information Technology Co., Ltd.** [certification](../files/ant.pdf)
+**Ant Zhixin Information Technology Co., Ltd.** [certificate](../files/ant.pdf)
 
   - October 2022 -- May 2023
   
@@ -36,7 +36,7 @@ Internships
 
 
 
-**Alibaba Damo Technology Co., Ltd.** [certification](../files/damo.pdf)
+**Alibaba Damo Technology Co., Ltd.** [certificate](../files/damo.pdf)
 
   - July 2021 -- September 2021
 
