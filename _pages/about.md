@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the web page of Fangyu Ding, who is B.Eng  & M.Eng (expected in 2024) from SJTU Department of Computer Science and Technology. My research interest lies in Machine Learning for Graph and Sequencial Data, Deep Probabilistic Models, Domain Generalization, and Machine Learning Applications.
+This is the web page of Fangyu Ding, who is B.Eng  & M.Eng (expected in 2024) from [SJTU Department of Computer Science and Engeneering](https://www.cs.sjtu.edu.cn/). I am currently a member of SJTU MoE Key Lab of AI, SJTU-ReThinkLab, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). My research interests lie in Machine Learning for Graph and Sequencial Data, Deep Probabilistic Models, Domain Generalization, and more Applications for Machine Learning.
 
 - [Transcript (Bachelor)](../files/transcript-score.pdf)
 - [Transcript (Master)](../files/transcript-master.pdf)
@@ -25,7 +25,7 @@ S$^3$GIL: Learning Sparse and Soft Subgraph  for Graph Invariant Learning (NeurI
 c-NTPP: Learning Cluster-Aware Neural Temporal Point Process (AAAI 2023) [pdf](../files/AAAI23_CSTPP.pdf) [code](https://github.com/Arthur-99/DeepSeqClustering)
 
 
-Internships
+Internships & Experiences
 ======
 
 **Ant Zhixin Information Technology Co., Ltd.** [certificate](../files/ant.pdf)
