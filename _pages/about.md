@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the web page of Fangyu Ding, who is B.Eng & M.Eng (expected in 2024) from SJTU Department of Computer Science and Technology. My research interest lies in Machine Learning for Graph and Sequencial Data, Deep Probabilistic Models, Domain Generalization, and Machine Learning Applications.
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+This is the web page of Fangyu Ding, who is B.Eng  & M.Eng (expected in 2024) from SJTU Department of Computer Science and Technology. My research interest lies in Machine Learning for Graph and Sequencial Data, Deep Probabilistic Models, Domain Generalization, and Machine Learning Applications.
+
+- [Transcript (Bachelor)](../files/transcript-score.pdf)
+- [Transcript (Master)](../files/transcript-master.pdf)
+- [CET-6](../files/cet6.pdf)
 
 Publications
 ======
@@ -25,7 +28,7 @@ c-NTPP: Learning Cluster-Aware Neural Temporal Point Process (AAAI 2023) [pdf](h
 Internships
 ======
 
-**Ant Zhixin Information Technology Co., Ltd.**
+**Ant Zhixin Information Technology Co., Ltd.** [certification](../files/ant.pdf)
 
   - October 2022 -- May 2023
   
@@ -33,7 +36,7 @@ Internships
 
 
 
-**Alibaba Damo Technology Co., Ltd.**
+**Alibaba Damo Technology Co., Ltd.** [certification](../files/damo.pdf)
 
   - July 2021 -- September 2021
 
