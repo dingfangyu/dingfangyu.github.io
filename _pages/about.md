@@ -32,7 +32,7 @@ Internships & Experiences
 
   - October 2022 -- May 2023
   
-  - Topic: Graph Invariant Learning and Out-of-Distribution (OOD) Generalization.
+  - Topics: Graph Invariant Learning and Out-of-Distribution (OOD) Generalization.
 
 
 
@@ -40,7 +40,7 @@ Internships & Experiences
 
   - July 2021 -- September 2021
 
-  - Topic: Event Sequence Learning and Sequential Variational Inference. 
+  - Topics: Event Sequence Learning and Sequential Variational Inference. 
 
 
 <!-- A data-driven personal website
