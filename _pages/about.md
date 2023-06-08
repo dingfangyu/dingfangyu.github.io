@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the web page of Fangyu Ding, who is B.Eng  & M.Eng (expected in 2024) from [SJTU Department of Computer Science and Engeneering](https://www.cs.sjtu.edu.cn/). I am currently a member of SJTU MoE Key Lab of AI, SJTU-ReThinkLab, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). My research interests lie in Machine Learning for Graph and Sequencial Data, Deep Probabilistic Models, Domain Generalization, and more Applications for Machine Learning.
+This is the webpage of Fangyu Ding, who is B.Eng  & M.Eng (expected in 2024) from [SJTU Department of Computer Science and Engeneering](https://www.cs.sjtu.edu.cn/). I am currently a member of SJTU MoE Key Lab of AI, SJTU-ReThinkLab, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). My research interests lie in Machine Learning for Graph and Sequential Data, Deep Probabilistic Models, Domain Generalization, and more about Graph Algorithms.
 
 - [Transcript (Bachelor)](../files/transcript-score.pdf)
 - [Transcript (Master)](../files/transcript-master.pdf)
@@ -32,7 +32,7 @@ Internships & Experiences
 
   - October 2022 -- May 2023
   
-  - Graph Invariant Learning and Out-of-Distribution (OOD) Generalization.
+  - Topic: Graph Invariant Learning and Out-of-Distribution (OOD) Generalization.
 
 
 
@@ -40,7 +40,7 @@ Internships & Experiences
 
   - July 2021 -- September 2021
 
-  - Event Sequence Learning and Sequential Variational Inference. 
+  - Topic: Event Sequence Learning and Sequential Variational Inference. 
 
 
 <!-- A data-driven personal website
