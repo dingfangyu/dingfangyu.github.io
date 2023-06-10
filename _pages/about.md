@@ -10,7 +10,7 @@ redirect_from:
 
 This is the webpage of Fangyu Ding (丁方玉), who is B.Eng & M.Eng (expected in 2024) from [SJTU Department of Computer Science and Engeneering](https://www.cs.sjtu.edu.cn/). I am currently a member of SJTU MoE Key Lab of AI, SJTU-ReThinkLab, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). My research interests lie in Machine Learning for Graph and Sequential Data, Deep Probabilistic Models, Domain Generalization, and more about Graph Algorithms.
 
-- [CV](../files/CV_DingFangyu)
+- [CV](../files/CV_DingFangyu.pdf)
 - [Transcript (Bachelor)](../files/transcript-score.pdf)
 - [Transcript (Master)](../files/transcript-master.pdf)
 - [CET-6](../files/cet6.pdf)
