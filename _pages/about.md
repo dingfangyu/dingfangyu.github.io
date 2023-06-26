@@ -83,9 +83,9 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
 
-I have listed my research / internship experiences on my homepage https://arthur-99.github.io/ as well as in my CV.
+<!-- I have listed my research / internship experiences on my homepage https://arthur-99.github.io/ as well as in my CV.
 
 I have a AAAI 2023 paper `c-NTPP: Learning Cluster-Aware Neural Temporal Point Process', 
 and a NeurIPS 2023 **Submission** `S3GIL: Learning Sparse and Soft Subgraph for Graph Invariant Learning ', both are first-authored.
 
-The papers are also corresponding to the research topics of my internships in Alibaba DAMO and Ant Group.
+The papers are also corresponding to the research topics of my internships in Alibaba DAMO and Ant Group. -->
