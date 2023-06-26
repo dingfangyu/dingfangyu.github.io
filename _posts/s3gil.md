@@ -1,3 +1,12 @@
+---
+title: 'Sparse and Soft Subgraph for Graph Invariant Learning'
+date: 2023-06-26
+permalink: /posts/2023/06/s3gil/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
 
 ## Sparse and Soft Subgraph for Graph Invariant Learning
 

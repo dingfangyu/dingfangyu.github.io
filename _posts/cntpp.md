@@ -1,3 +1,13 @@
+---
+title: 'Cluster-Aware Neural Temporal Point Process'
+date: 2023-06-26
+permalink: /posts/2023/06/cntpp/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 ## Cluster-Aware Neural Temporal Point Process
 
 ### Preliminaries 
