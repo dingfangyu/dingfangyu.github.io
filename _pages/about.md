@@ -11,9 +11,9 @@ redirect_from:
 This is the web page of Fangyu Ding, who is B.Eng  & M.Eng (expected in 2024) from [SJTU Department of Computer Science and Engeneering](https://www.cs.sjtu.edu.cn/). I am currently a member of SJTU MoE Key Lab of AI, SJTU-ReThinkLab, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). 
 
 - [CV](../files/CV_DingFangyu.pdf)
-- [Transcript (Bachelor)](../files/transcript-score.pdf)
-- [Transcript (Master)](../files/transcript-master.pdf)
-- [CET-6](../files/cet6.pdf)
+- [Transcript (Bachelor), average score: 88.6/100](../files/transcript-score.pdf)
+- [Transcript (Master), GPA: 3.70/4](../files/transcript-master.pdf)
+- [CET-6: 550/710](../files/cet6.pdf)
 
 Publications
 ======
@@ -46,9 +46,9 @@ Internships & Experiences
 The Future 
 ======
 
-Currently, my research interests lie in: machine learning for graph and sequencial data, deep Probabilistic models, and generalizability, which are corresponding to my works.
+Currently, my research interests lie in: machine learning for graph and sequential data, deep Probabilistic models, and generalizability, which are corresponding to my works.
 
-For the future, I am interested in scalable machine learning for large-scaled data (e.g. high-dim sequential data, large graph data, etc.), which need special designs in the level of data management and distributed training.
+For the future, I am interested in scalable machine learning for large scale data (e.g. high-dim sequential data, large graph data, etc.), which need special designs in the level of data management and distributed training.
 
 <!-- A data-driven personal website
 ======
