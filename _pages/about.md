@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the web page of Fangyu Ding, who is B.Eng  & M.Eng (expected in 2024) from [SJTU Department of Computer Science and Engeneering](https://www.cs.sjtu.edu.cn/). I am currently a member of SJTU MoE Key Lab of AI, SJTU-ReThinkLab, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). 
+This is the web page of Fangyu Ding (丁方玉), who is B.Eng  & M.Eng (expected in 2024) from [SJTU Department of Computer Science and Engeneering](https://www.cs.sjtu.edu.cn/). I am currently a member of SJTU MoE Key Lab of AI, SJTU-ReThinkLab, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). 
 
 - [CV](../files/CV_DingFangyu.pdf)
 - [Transcript (Bachelor), average score: 88.6/100](../files/transcript-score.pdf)
