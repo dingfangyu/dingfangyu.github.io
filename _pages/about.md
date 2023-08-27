@@ -23,7 +23,7 @@ S$^3$GIL: Learning Sparse and Soft Subgraph  for Graph Invariant Learning (NeurI
 
 **Fangyu Ding**, Junchi Yan, Haiyang Wang.
 
-c-NTPP: Learning Cluster-Aware Neural Temporal Point Process (AAAI 2023) [pdf](../files/AAAI23_CSTPP.pdf) [code](https://github.com/Arthur-99/DeepSeqClustering) [blog](https://arthur-99.github.io/posts/2023/06/cntpp/)
+c-NTPP: Learning Cluster-Aware Neural Temporal Point Process (AAAI 2023) [pdf](../files/AAAI23_CSTPP.pdf) [blog](https://arthur-99.github.io/posts/2023/06/cntpp/)
 
 
 Internships & Experiences
