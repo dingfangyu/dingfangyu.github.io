@@ -19,11 +19,11 @@ Publications
 ======
 **Fangyu Ding**, Haiyang Wang, Zhixuan Chu, Tianming Li, Junchi Yan.
 
-S$^3$GIL: Learning Sparse and Soft Subgraph  for Graph Invariant Learning (NeurIPS 2023 Submission) [pdf](../files/neurips_2023_S3GIL.pdf) [blog](https://arthur-99.github.io/posts/2023/06/s3gil/)
+S$^3$GIL: Learning Sparse and Soft Subgraph  for Graph Invariant Learning (NeurIPS 2023 Submission) [pdf](../files/neurips_2023_S3GIL.pdf) [blog](https://dingfangyu.github.io/posts/2023/06/s3gil/)
 
 **Fangyu Ding**, Junchi Yan, Haiyang Wang.
 
-c-NTPP: Learning Cluster-Aware Neural Temporal Point Process (AAAI 2023) [pdf](../files/AAAI23_CSTPP.pdf) [blog](https://arthur-99.github.io/posts/2023/06/cntpp/)
+c-NTPP: Learning Cluster-Aware Neural Temporal Point Process (AAAI 2023) [pdf](../files/AAAI23_CSTPP.pdf) [blog](https://dingfangyu.github.io/posts/2023/06/cntpp/)
 
 
 Internships & Experiences
@@ -90,7 +90,7 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
 
-<!-- I have listed my research / internship experiences on my homepage https://arthur-99.github.io/ as well as in my CV.
+<!-- I have listed my research / internship experiences on my homepage https://dingfangyu.github.io/ as well as in my CV.
 
 I have a AAAI 2023 paper `c-NTPP: Learning Cluster-Aware Neural Temporal Point Process', 
 and a NeurIPS 2023 **Submission** `S3GIL: Learning Sparse and Soft Subgraph for Graph Invariant Learning ', both are first-authored.
