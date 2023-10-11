@@ -11,7 +11,7 @@ redirect_from:
 This is the web page of Fangyu Ding (丁方玉), who is B.Eng  & M.Eng (expected in 2024) from [SJTU Department of Computer Science and Engeneering](https://www.cs.sjtu.edu.cn/). I am currently a member of SJTU MoE Key Lab of AI, SJTU-ReThinkLab, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). 
 
 - [CV](../files/CV_DingFangyu.pdf)
-- [Transcript (Bachelor), average score: 88.6/100](../files/transcript-score.pdf)
+- [Transcript (Bachelor), Major GPA: 88.9/100](../files/transcript-score.pdf)
 - [Transcript (Master), GPA: 3.70/4](../files/transcript-master.pdf)
 - [CET-6: 550/710](../files/cet6.pdf)
 
@@ -19,7 +19,7 @@ Publications
 ======
 **Fangyu Ding**, Haiyang Wang, Zhixuan Chu, Tianming Li, Junchi Yan.
 
-S$^3$GIL: Learning Sparse and Soft Subgraph  for Graph Invariant Learning (NeurIPS 2023 Submission) [pdf](../files/neurips_2023_S3GIL.pdf) [blog](https://dingfangyu.github.io/posts/2023/06/s3gil/)
+S$^3$GIL: Learning Sparse and Soft Subgraph  for Graph Invariant Learning (Under Review) [pdf](../files/neurips_2023_S3GIL.pdf) [blog](https://dingfangyu.github.io/posts/2023/06/s3gil/)
 
 **Fangyu Ding**, Junchi Yan, Haiyang Wang.
 
@@ -43,12 +43,12 @@ Internships & Experiences
 
   - Event Sequence Learning and Sequential Variational Inference. 
 
-The Future 
+<!-- The Future 
 ======
 
 Currently, my research interests lie in: machine learning for graph and sequential data, deep Probabilistic models, and generalizability, which are corresponding to my works.
 
-For the future, I am interested in scalable machine learning for large scale data (e.g. high-dim sequential data, large graph data, etc.), which need special designs in the level of data management and distributed training.
+For the future, I am interested in scalable machine learning for large scale data (e.g. high-dim sequential data, large graph data, etc.), which need special designs in the level of data management and distributed training. -->
 
 <!-- A data-driven personal website
 ======
