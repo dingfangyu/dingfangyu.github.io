@@ -24,11 +24,9 @@ Publications
 Work Experiences
 ======
 
-**Algorithm Engineer Intern** @AntGroup (2022/10 - 2023/6)
+- **Algorithm Engineer Intern** @AntGroup (2022/10 - 2023/6)
 
-
-
-**Algorithm Engineer Intern** @Alibaba Damo (2021/7 - 2021/9)
+- **Algorithm Engineer Intern** @Alibaba Damo (2021/7 - 2021/9)
 
 <!-- The Future 
 ======
