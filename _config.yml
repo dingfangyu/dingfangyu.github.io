@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fangyu Ding"
   avatar           : "profile.jpeg"
-  bio              : "https://dingfangyu.github.io/files/CV_DingFangyu.pdf"
+  bio              : 
   location         : "Western Pacific"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
