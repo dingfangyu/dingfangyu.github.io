@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the web page of Fangyu Ding ([CV](../files/CV_DingFangyu.pdf)). I am currently a member of SJTU MoE Key Lab of AI, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). I got my bachelor & master (expected in 2024) degrees from [@SJTU CSE](https://www.cs.sjtu.edu.cn/).  
+This is the web page of Fangyu Ding ([CV](../files/CV_DingFangyu.pdf)). I am currently a member of SJTU MoE Key Lab of AI, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). I got my bachelor & master (expected in 2024) degrees from [@SJTU CSE](https://www.cs.sjtu.edu.cn/). I am going to join HKUST in 2024 fall.  
 
 
 <!-- - [Transcript (Bachelor), Major GPA: 88.9/100](../files/transcript-score.pdf)
@@ -20,8 +20,7 @@ Publications
 
 - 1st Authored Work on Graph Learning (Under Review) [blog](https://dingfangyu.github.io/posts/2023/06/s3gil/)
 
-- **Fangyu Ding**, Junchi Yan, Haiyang Wang. "c-NTPP: Learning Cluster-Aware Neural Temporal Point Process" (*AAAI 2023*) [pdf](../files/AAAI23_CSTPP.pdf) [blog](https://dingfangyu.github.io/posts/2023/06/cntpp/)
-
+- **Fangyu Ding**, Junchi Yan, Haiyang Wang. "c-NTPP: Learning Cluster-Aware Neural Temporal Point Process." (*AAAI 2023*) 
 
 Work Experiences
 ======
