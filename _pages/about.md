@@ -8,40 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-This is the web page of Fangyu Ding (丁方玉), who is B.Eng  & M.Eng (expected in 2024) from [SJTU Department of Computer Science and Engeneering](https://www.cs.sjtu.edu.cn/). I am currently a member of SJTU MoE Key Lab of AI, SJTU-ReThinkLab, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). 
+This is the web page of Fangyu Ding ([CV](../files/CV_DingFangyu.pdf)). I am currently a member of SJTU MoE Key Lab of AI, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). I got my bachelor & master (expected in 2024) degrees from [@SJTU CSE](https://www.cs.sjtu.edu.cn/).  
 
-- [CV](../files/CV_DingFangyu.pdf)
-- [Transcript (Bachelor), Major GPA: 88.9/100](../files/transcript-score.pdf)
+
+<!-- - [Transcript (Bachelor), Major GPA: 88.9/100](../files/transcript-score.pdf)
 - [Transcript (Master), GPA: 3.70/4](../files/transcript-master.pdf)
-- [CET-6: 550/710](../files/cet6.pdf)
+- [CET-6: 550/710](../files/cet6.pdf) -->
 
 Publications
 ======
-**Fangyu Ding**, Haiyang Wang, Zhixuan Chu, Tianming Li, Junchi Yan.
 
-S$^3$GIL: Learning Sparse and Soft Subgraph  for Graph Invariant Learning (Under Review) [pdf](../files/neurips_2023_S3GIL.pdf) [blog](https://dingfangyu.github.io/posts/2023/06/s3gil/)
+- 1st Authored Work on Graph Learning (Under Review) [blog](https://dingfangyu.github.io/posts/2023/06/s3gil/)
 
-**Fangyu Ding**, Junchi Yan, Haiyang Wang.
-
-c-NTPP: Learning Cluster-Aware Neural Temporal Point Process (AAAI 2023) [pdf](../files/AAAI23_CSTPP.pdf) [blog](https://dingfangyu.github.io/posts/2023/06/cntpp/)
+- **Fangyu Ding**, Junchi Yan, Haiyang Wang. "c-NTPP: Learning Cluster-Aware Neural Temporal Point Process" (*AAAI 2023*) [pdf](../files/AAAI23_CSTPP.pdf) [blog](https://dingfangyu.github.io/posts/2023/06/cntpp/)
 
 
-Internships & Experiences
+Work Experiences
 ======
 
-**Ant Zhixin Information Technology Co., Ltd.** [certificate](../files/ant.pdf)
-
-  - October 2022 -- May 2023
-  
-  - Graph Invariant Learning and Out-of-Distribution (OOD) Generalization.
+**Algorithm Engineer Intern** @AntGroup (2022/10 - 2023/6)
 
 
 
-**Alibaba Damo Technology Co., Ltd.** [certificate](../files/damo.pdf)
-
-  - July 2021 -- September 2021
-
-  - Event Sequence Learning and Sequential Variational Inference. 
+**Algorithm Engineer Intern** @Alibaba Damo (2021/7 - 2021/9)
 
 <!-- The Future 
 ======
