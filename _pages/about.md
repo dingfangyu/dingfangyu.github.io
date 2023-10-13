@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the web page of Fangyu Ding (丁方玉). I am currently a member of SJTU MoE Key Lab of AI, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). I got my bachelor & master (expected in 2024) degrees from [@SJTU CSE](https://www.cs.sjtu.edu.cn/). I am going to join HKUST in 2024 fall.  
-
-- [CV](../files/CV_DingFangyu.pdf)
+This is the web page of Fangyu Ding (丁方玉). I am currently a member of SJTU MoE Key Lab of AI, advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). I got my bachelor & master (expected in 2024) degrees from [@SJTU CSE](https://www.cs.sjtu.edu.cn/). I am going to join HKUST in 2024 fall. [[CV]](../files/CV_DingFangyu.pdf)
 
 <!-- - [Transcript (Bachelor), Major GPA: 88.9/100](../files/transcript-score.pdf)
 - [Transcript (Master), GPA: 3.70/4](../files/transcript-master.pdf)
