@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, this is Fangyu Ding."
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
