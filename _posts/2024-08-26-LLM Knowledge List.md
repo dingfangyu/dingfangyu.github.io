@@ -6,6 +6,10 @@ tags:
 
 <!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`.  -->
 
+
+
+This post summarizes the knowledge about LLM I have learned in 2024-04~07, when I was intern at UCloud.x
+
 * TOC 
 {:toc}
 
@@ -58,8 +62,10 @@ tags:
     - dejavu
     - powerinfer
     - moefication
+
 - prompting
   - RAG
+
 - serving system
   - vllm
   - tensorRT
@@ -68,20 +74,23 @@ tags:
       - prefill-decoding disaggregation
     - Attention Offloading
       - SA-FFN disaggregation
+
   - FlexGen
+    - offloading
+
 - inference task property
   - prefill-decoding 2 stages
     - KV cache
   - memory bound
     - when the batch size is not extremely large (~200), the bottleneck of inference speed is the GPU memory accessing of model weights & KV cache, rather than the computation cost and communication cost
-    - moreover, it is meaningless to tranform a memory bound task to a GPU-CPU/NVMe IO bound task, e.g. designing an offloading system for inference
+    - it is meaningless to transform a memory bound task to a GPU-CPU/NVMe IO bound task, e.g. designing an offloading system for inference
 
 
 
 ## Fine-Tuning
 
+- supervised fine-tuning (SFT)
 - efficiency
-  - supervised fine-tuning (SFT)
   - parameter-efficient fine-tuning (PEFT)
     - LoRA (low-rank)
       - DoRA
