@@ -4,11 +4,11 @@ tags:
   - LLM
 ---
 
-<!-- This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`.  -->
+<!-- git add . && git commit -m '1' && git push  -->
 
 
 
-This post summarizes the knowledge about LLM I have learned in 2024-04~07, when I was intern at UCloud.x
+This post summarizes the knowledge about LLM I have learned in 2024-04~07, when I was intern at UCloud.
 
 * TOC 
 {:toc}
