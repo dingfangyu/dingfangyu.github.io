@@ -1,4 +1,5 @@
 ---
+title: "VAE Framework"
 tags:
   - VAE
   - probability
