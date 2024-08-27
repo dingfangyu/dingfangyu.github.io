@@ -2,9 +2,15 @@
 title: 'LLM Knowledge List'
 tags:
   - LLM
+  - training
+  - inference
+  - fine-tuning
+  - kernel
+  - model architecture
+  - hardware
 ---
 
-<!-- git add . && git commit -m '1' && git push  -->
+<!-- git add . && git commit -m 'llm' && git push  -->
 
 
 This post summarizes the knowledge about LLM (~50 papers) I have learned in 2024 Spring & Summer, when I was intern at UCloud. 
