@@ -20,11 +20,14 @@ This post summarizes the matrix gradients in the training / LoRA Fine-Tuning of 
 ### trace
 
 basic properties:
+
+
 $$
 tr(A+B) = tr(A) + tr(B),\quad tr(AB) = \sum_{i,j} A_{ij}B_{ij}
 $$
-and trace is a symmetric operation:
 
+
+and trace is a symmetric operation:
 
 $$
 tr(AB) = tr(BA)
