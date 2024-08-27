@@ -195,7 +195,7 @@ $$
 
 
 
-we can adopt the former rules, and get:
+a conclusion is:
 
 
 $$
