@@ -7,8 +7,7 @@ tags:
 <!-- git add . && git commit -m '1' && git push  -->
 
 
-
-This post summarizes the knowledge about LLM I have learned in 2024-04~07, when I was intern at UCloud.
+This post summarizes the knowledge about LLM (~50 papers) I have learned in 2024 Spring & Summer, when I was intern at UCloud. 
 
 * TOC 
 {:toc}
