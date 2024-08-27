@@ -87,4 +87,4 @@ where (i) is Jensen's inequality, by maximizing the ELBO, the likelihood of
 $$
 p_\theta (x)
 $$
-can also be improved
+can also be optimized
