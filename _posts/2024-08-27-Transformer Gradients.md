@@ -7,7 +7,6 @@ tags:
   - linear algebra
 ---
 
-
 This post summarizes the matrix gradients in the training / LoRA Fine-Tuning of Transformer
 
 * TOC 

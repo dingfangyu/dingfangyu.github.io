@@ -4,10 +4,13 @@ tags:
   - VAE
   - probability
 ---
-<!-- git add . && git commit -m 'vae' && git push  -->
+
+The mathematic definition of the framework of Variational Autoencoder 
 
 * TOC 
 {:toc}
+
+<!-- git add . && git commit -m 'vae' && git push  -->
 
 ## VAE 
 
@@ -74,7 +77,8 @@ $$
 &= \log \int \frac{q_\phi(z|x)p_\theta(x|z)p(z)}{q_\phi(z|x)} dz \\
 &\overset{(i)}{\ge} \int q_\phi(z|x) \log \frac{p_\theta(x|z)p(z)}{q_\phi(z|x)} dz \\
 &= \int q_\phi(z|x) \log p_\theta(x|z) dz + \int q_\phi(z|x) \log \frac{p(z)}{q_\phi(z|x)} dz  \\
-&=\mathbb{E}_{z \sim q_\phi(z|x)} \log p_\theta(x|z) - \text{KL}(q_\phi(z|x) \Vert p(z))
+&=\mathbb{E}_{z \sim q_\phi(z|x)} \log p_\theta(x|z) - \text{KL}(q_\phi(z|x) \Vert p(z))\\
+&=\text{ELBO}
 \end{align}
 $$
 

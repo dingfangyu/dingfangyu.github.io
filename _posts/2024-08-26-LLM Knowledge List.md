@@ -10,13 +10,13 @@ tags:
   - hardware
 ---
 
-<!-- git add . && git commit -m 'llm' && git push  -->
-
-
-This post summarizes the knowledge about LLM (~50 papers) I have learned in 2024 Spring & Summer, when I was intern at UCloud. 
+This post summarizes the knowledge about LLM (~50 papers) I have learned in 2024 Spring & Summer, when I was intern at UCloud
 
 * TOC 
 {:toc}
+
+
+<!-- git add . && git commit -m 'llm' && git push  -->
 
 ## Training
 
