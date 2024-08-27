@@ -9,4 +9,4 @@ redirect_from:
 
 Welcome!
 ======
-My name is DING Fangyu, as a Computer Science PhD student at HKUST [Relaxed System Lab](https://binhangyuan.github.io/site/), researching MLSys and LLM related topics.
+My name is DING Fangyu, as a Computer Science PhD student at HKUST [Relaxed System Lab](https://binhangyuan.github.io/site/), I am researching MLSys and LLM related topics.
