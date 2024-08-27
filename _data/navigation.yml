@@ -4,6 +4,8 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
+# git add . && git commit -m 'navi' && git push
+
 main:
   # - title: "Publications"
   #   url: /publications/
@@ -17,11 +19,12 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Learning"
-    url: /year-archive/
     
   - title: "CV"
     url: /files/cv.pdf
+  
+  - title: "Learning in Public"
+    url: /year-archive/
     
-  - title: ".."
+  - title: "Guide"
     url: /markdown/
