@@ -20,11 +20,11 @@ main:
   #   url: /portfolio/
         
     
-  - title: "CV"
+  - title: "My CV"
     url: /files/cv.pdf
   
   - title: "Learning in Public"
     url: /year-archive/
     
-  - title: "Guide"
+  - title: "Editing Guide"
     url: /markdown/
