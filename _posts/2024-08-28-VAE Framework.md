@@ -162,7 +162,7 @@ instead of
 $$
 q(x_t | x_{t-1}, x_0)
 $$
-, we want some distribution of 
+, we want some distribution like 
 $$
 q(x_{t-1} | x_t, x_0)
 $$
