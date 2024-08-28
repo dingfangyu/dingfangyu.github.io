@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Young, Simple, and Naive"
   location         : "Hong Kong"
-  employer         : "HKUST"
+  employer         : #""
   uri              : # URL
   email            : "fangyu.ding@outlook.com" 
 
