@@ -22,7 +22,7 @@ basic properties:
 
 
 $$
-tr(A+B) = tr(A) + tr(B),\quad tr(AB) = \sum_{i,j} A_{ij}B_{ij}
+tr(A+B) = tr(A) + tr(B),\quad tr(AB) = \sum_{i,j} A_{ij}B_{ji}
 $$
 
 
