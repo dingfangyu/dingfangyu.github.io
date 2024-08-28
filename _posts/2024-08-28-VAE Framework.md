@@ -99,7 +99,7 @@ can also be optimized
 
 ### decoder
 
-the decoder (a.k.a. generative submodel) of Diffusion is modeled as:
+the decoder (a.k.a. generative submodel / joint distribution) of Diffusion is modeled as:
 
 
 $$
@@ -125,8 +125,20 @@ the encoder submodel of Diffusion is a fixed (w\o learnable parameters) diffusio
 
 
 $$
-q(x_{0:T}) = q(x_0) \prod_{t=1}^T q(x_t | x_{t-1})
+q(x_{1:T} | x_0) =  \prod_{t=1}^T q(x_t | x_{t-1})
 $$
+
+
+where 
+$$
+x_{1:T}
+$$
+acts as the role of latent
+$$
+z
+$$
+in the framework of VAE
+
 
 
 ### ELBO
