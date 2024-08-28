@@ -235,4 +235,4 @@ $$
 $$
 
 
-notably, until now, except for the Markov property, we haven't specified any property of these distributions yet (e.g. Gaussian), it is a pure VAE framework of Diffusion model.
+notably, until now, except for the Markov property, we haven't specified any property of these distributions yet (e.g. Gaussian), it is a pure VAE framework of Diffusion model
