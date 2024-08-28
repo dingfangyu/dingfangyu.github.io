@@ -2,7 +2,9 @@
 title: "VAE Framework and Diffusion Model"
 tags:
   - VAE
+  - ELBO
   - probability
+  - Diffusion
 ---
 
 The mathematic definition of the framework of Variational Autoencoder, and an instance of Diffusion model (only the content of VAE)
