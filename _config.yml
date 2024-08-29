@@ -25,7 +25,7 @@ author:
   name             : "DING Fangyu"
   pronouns         : # example: "she/her"  
   bio              : "Young, Simple, and Naive"
-  location         : "Hong Kong"
+  location         : #""
   employer         : #""
   uri              : # URL
   email            : "fangyu.ding@outlook.com" 
