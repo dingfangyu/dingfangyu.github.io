@@ -10,7 +10,7 @@ tags:
   - hardware
 ---
 
-This post summarizes the knowledge about LLM (~50 papers) I have learned in 2024 Spring & Summer, when I was intern at UCloud
+This post summarizes the knowledge about LLM (~50 papers) 
 
 * TOC 
 {:toc}
