@@ -80,7 +80,9 @@ $$
 &\overset{(i)}{\ge} \int q_\phi(z|x) \log \frac{p_\theta(x|z)p(z)}{q_\phi(z|x)} dz \\
 &= \int q_\phi(z|x) \log p_\theta(x|z) dz + \int q_\phi(z|x) \log \frac{p(z)}{q_\phi(z|x)} dz  \\
 &=\mathbb{E}_{z \sim q_\phi(z|x)} \log p_\theta(x|z) - \text{KL}(q_\phi(z|x) \Vert p(z))\\
-&=\text{ELBO}
+&=\text{ELBO} \\
+&\overset{(ii)}{\ge}\mathbb{E}_{z \sim q_\phi(z|x)} \log p_\theta(x|z) -\beta \text{KL}(q_\phi(z|x) \Vert p(z)) \\
+&=\text{ELBO}_{\beta}
 \end{align}
 $$
 
@@ -89,7 +91,15 @@ where (i) is Jensen's inequality, by maximizing the ELBO, the likelihood of
 $$
 p_\theta (x)
 $$
-can also be optimized
+can also be optimized; (ii) is under the condition 
+$$
+\beta \ge 1
+$$
+, which is  the case of
+$$
+\beta
+$$
+-VAE
 
 
 
