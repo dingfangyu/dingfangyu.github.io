@@ -134,7 +134,7 @@ This post summarizes the basic knowledge about LLM (~50 papers)
   - compute bound (like training)
   - not memory consuming (with parameter/memory-efficient methods)
 
-
+- RLHF
 
 ## Kernel
 
