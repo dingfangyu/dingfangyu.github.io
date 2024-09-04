@@ -23,14 +23,35 @@ This post summarizes the basic knowledge about LLM (~50 papers)
 - parallelisms, distributed training
   - data parallelism
     - allreduce grad
+    
   - pipeline parallelism
+  
   - tensor parallelism
-    - matrix computations in self-attention (SA) & feed-forward network (FFN) are composed of neuron (i.e. a row/column vector) computations
+    - matrix computations in self-attention (SA) & feed-forward network (FFN) are composed of neuron (i.e. a row/column vector) computations: 
+    
+      take 2-layer FFN as an example (#neurons = d_ffn): 
+    
+      
+      $$
+      W_1 =[W_1^1, W_1^2, ..., W_1^{d_{ffn}}],\quad W_2 = \begin{bmatrix}
+      W_2^1 \\W_2^2 \\ \vdots \\W_2^{d_{ffn}} \\ \end{bmatrix} , \quad \sigma(xW_1) W_2  = \sum_{i=1}^{d_{ffn}} \sigma(xW_1^i) W_2^i
+      $$
+      where
+    
+    $$
+    x \in R^{*\times d},\, W_1^i \in R^{d\times1},\, W_2^i \in R^{1\times d},\, \forall_i
+    $$
+    
+    
+    
     - we can gather the neurons into (disjoint) clusters, and dispatch different clusters to different computational units (e.g. GPUs) to implement tensor parallelism
+    
   - sequence parallelism
     - ring attention, computation-communication overlap
+    
   - expert parallelism
     - deepspeed-MoE
+    
   - zero
     - zero-infinity, offloading system making use of CPU/NVMe memories
   
