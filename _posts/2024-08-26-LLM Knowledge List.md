@@ -1,5 +1,5 @@
 ---
-title: 'LLM Knowledge List'
+title: 'LLM Knowledge List - Basics'
 tags:
   - LLM
   - training
@@ -10,7 +10,7 @@ tags:
   - hardware
 ---
 
-This post summarizes the knowledge about LLM (~50 papers) 
+This post summarizes the basic knowledge about LLM (~50 papers) 
 
 * TOC 
 {:toc}
