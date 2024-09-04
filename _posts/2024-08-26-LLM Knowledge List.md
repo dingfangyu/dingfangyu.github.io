@@ -92,6 +92,10 @@ This post summarizes the basic knowledge about LLM (~50 papers)
 - prompting
   - RAG
 
+- reasoning
+  - ToC
+  - RAP
+
 - serving system
   - vllm
   - tensorRT
