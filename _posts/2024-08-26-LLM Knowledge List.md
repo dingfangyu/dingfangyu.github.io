@@ -40,14 +40,14 @@ This post summarizes the basic knowledge about LLM (~50 papers)
 
     - when the training scale is not extremely large, the computation cost is dominant, rather than the GPU memory accessing cost and network communication cost
 
-    - the computation cost can be measured in terms of Floating-point operations (FLOPs or Flops), which is easy to estimate by the rule:
+    - the computation cost can be measured in terms of Floating-point operations (FLOPs or Flops), which is easy to estimate by the rule [[backward flops details]](../Transformer-Gradients/):
 
       $$
       forward\_FLOPs = 2 \times \#tokens \times \#activated\_paramters 
       $$
 
       $$
-      backward\_FLOPs = 2 \times forward\_FLOPs
+      backward\_FLOPs = 2 \times forward\_FLOPs 
       $$
 
     - where "activated" is specially referred for the case of Mixture-of-Expert (MoE) models, if the model is not MoE (i.e. is dense model), the activated paramters is the total parameters
