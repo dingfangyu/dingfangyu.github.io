@@ -176,8 +176,10 @@ This post summarizes the basic knowledge about LLM (~50 papers)
   - linear attention
   - hyperattention
 - other structures (RNNs)
+  - RWKV
   - mamba
   - TTT
+  
 
 
 
