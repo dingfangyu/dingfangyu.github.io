@@ -57,7 +57,7 @@ is the gradient of matrix X (a.k.a. X.grad
 
 or
 $$
-\nabla_{\mathcal{L}}X
+\nabla_{X}\mathcal{L}
 $$
 ), which has a same data shape as X
 
