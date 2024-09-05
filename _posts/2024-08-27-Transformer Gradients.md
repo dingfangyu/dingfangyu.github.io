@@ -53,7 +53,13 @@ is a scalar loss, and
 $$
 \frac{\partial \mathcal{L}}{\partial X}
 $$
-is the gradient of matrix X (a.k.a. X.grad), which has a same data shape as X
+is the gradient of matrix X (a.k.a. X.grad
+
+or
+$$
+\nabla_{\mathcal{L}}X
+$$
+), which has a same data shape as X
 
 
 

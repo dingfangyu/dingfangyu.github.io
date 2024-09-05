@@ -7,8 +7,6 @@
 # git add . && git commit -m 'navi' && git push
 
 main:
-  # - title: "Publications"
-  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -25,6 +23,9 @@ main:
   
   - title: "Learning in Public"
     url: /year-archive/
+
+  # - title: "Publications"
+  #   url: /publications/
     
   - title: "Editing Guide"
     url: /markdown/
