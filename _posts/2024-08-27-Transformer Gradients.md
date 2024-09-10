@@ -173,7 +173,7 @@ then
 
 
 $$
-d\mathcal{L} = tr(\frac{\partial \mathcal{L}}{\partial Y}^\top dY) = tr(\frac{\partial \mathcal{L}}{\partial Y}^\top [\sigma^{'}(X) \odot dX]) = tr([\frac{\partial \mathcal{L}}{\partial Y}^\top \odot \sigma^{'}(X)]  dX)
+d\mathcal{L} = tr(\frac{\partial \mathcal{L}}{\partial Y}^\top dY) = tr(\frac{\partial \mathcal{L}}{\partial Y}^\top [\sigma^{'}(X) \odot dX]) = tr([\frac{\partial \mathcal{L}}{\partial Y}\odot \sigma^{'}(X)]^\top   dX)
 $$
 
 
