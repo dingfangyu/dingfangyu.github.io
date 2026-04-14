@@ -1,0 +1,260 @@
+
+==================================== Step 0 ====================================
+
+[CLS] 
+
+==================================== Step 1 ====================================
+
+[CLS] lucy
+
+==================================== Step 2 ====================================
+
+[CLS], lucy her
+
+==================================== Step 3 ====================================
+
+[CLS], lucy very her.
+
+==================================== Step 4 ====================================
+
+[CLS], lucy lucy very her.
+
+==================================== Step 5 ====================================
+
+[CLS], lucy smile lucy, very her.
+
+==================================== Step 6 ====================================
+
+[CLS], lucy. smile lucy she, very her.
+
+==================================== Step 7 ====================================
+
+[CLS], lucy. smile lucy she, very her.
+
+==================================== Step 8 ====================================
+
+[CLS], lucy. smile. lucy she and, very her.
+
+==================================== Step 9 ====================================
+
+[CLS], lucy. it smile. lucy she and, very her.
+
+==================================== Step 10 ====================================
+
+[CLS], lucy. it smile. lucy she and, very after her.
+
+==================================== Step 11 ====================================
+
+[CLS], lucy. it smile. lucy she and, very after her. her
+
+==================================== Step 12 ====================================
+
+[CLS], lucy.. it smile. lucy she and, very after her. park her
+
+==================================== Step 13 ====================================
+
+[CLS], lucy.. it smile. lucy she and, very after her. park her.
+
+==================================== Step 14 ====================================
+
+[CLS], lucy. a. it smile. lucy she and, very pretty after her. park her.
+
+==================================== Step 15 ====================================
+
+[CLS], lucy. a. it smile. lucy she and farm, very pretty after her. park her.
+
+==================================== Step 16 ====================================
+
+[CLS], lucy. a. it smile. lucy she the and farm farm, very pretty all after finished her. park her.
+
+==================================== Step 17 ====================================
+
+[CLS], lucy. a. it smile. lucy to she the and farm farm,. very pretty playing all after finished her. park her.
+
+==================================== Step 18 ====================================
+
+[CLS], there lucy. a. it smile. lucy to she the and farm farm,. very pretty playing all after finished her. park her.
+
+==================================== Step 19 ====================================
+
+[CLS], there lucy. a. it smile. lucy to she the and farm farm,. onion very pretty playing all after finished her. to park her.
+
+==================================== Step 20 ====================================
+
+[CLS], there lucy. a. it and smile. lucy to. she the and farm farm,. onion very pretty playing all after finished her. to park her mom.
+
+==================================== Step 21 ====================================
+
+[CLS], there lucy. a. it and smile. lucy to. she the and farm farm,. onion very pretty playing all after finished her. to park her mom more.
+
+==================================== Step 22 ====================================
+
+[CLS], there lucy. a. it and smile. lucy to. she saw the and farm farm,. onion very pretty playing all after finished her. to park her mom the more fun.
+
+==================================== Step 23 ====================================
+
+[CLS] a, there lucy. a. it and smile. lucy the to. she saw the and farm farm,. onion very pretty playing all after finished her. to park her mom the more fun.
+
+==================================== Step 24 ====================================
+
+[CLS] a, there lucy. a. it and smile. lucy the to. she saw the and farm farm,. onion very pretty playing all after finished her. to park her mom the more fun.
+
+==================================== Step 25 ====================================
+
+[CLS] a, there lucy. a. it and smile. lucy the to. she saw the and farm farm,. onion very pretty playing all after finished her. to park her mom the more fun.
+
+==================================== Step 26 ====================================
+
+[CLS] a, there lucy. a. it and smile. lucy the to. she saw the and farm farm,. onion very pretty playing all after finished her. to park her mom the more fun.
+
+==================================== Step 27 ====================================
+
+[CLS] a, there lucy. a. it and smile. lucy the park to. she saw the and farm farm,. onion very pretty playing all after finished, her. to park her mom the they more fun.
+
+==================================== Step 28 ====================================
+
+[CLS] a, there lucy. a. it and smile. lucy the park to. she saw the and farm farm,. onion very pretty playing all after finished, her. to park her mom the they more fun.
+
+==================================== Step 29 ====================================
+
+[CLS] a, there was lucy. she a. it and smile. lucy the park to. she saw the and farm farm,. onion very pretty playing all after finished, her. to park with her mom the they more fun.
+
+==================================== Step 30 ====================================
+
+[CLS] a, there was lucy. she a. it attractive and smile. lucy the park to. she saw the and farm farm,. onion very pretty playing all after finished, her. to park with her mom the they more fun.
+
+==================================== Step 31 ====================================
+
+[CLS] a, there was lucy. she a. it attractive and smile. lucy the park to. she saw the and farm farm,. onion very pretty playing all after finished, her. very to park with her mom the they more fun the.
+
+==================================== Step 32 ====================================
+
+[CLS] a, there was lucy. she a. it attractive and smile. lucy the park to. she saw the and farm farm,. onion very pretty playing all after finished, her. very to park with her mom the they more fun the.
+
+==================================== Step 33 ====================================
+
+[CLS] a, there was lucy. she a. it attractive and smile. lucy the park to. she saw the and farm farm,. onion very pretty. playing all after finished, her. very to park with her mom the they more fun the.
+
+==================================== Step 34 ====================================
+
+[CLS] a, there was lucy. she a. it attractive and smile. lucy the park to. she saw the and farm farm,. onion very pretty. playing all after finished, her. was very to the park with her mom the they more fun the.
+
+==================================== Step 35 ====================================
+
+[CLS] a time, there was lucy. she a. it was attractive and smile. lucy the park to. she saw the trees and farm farm,. onion very pretty. playing all after finished, her. was very to have the park with her mom the they more fun the.
+
+==================================== Step 36 ====================================
+
+[CLS] a time, there was lucy. she a. it was attractive and smile. lucy the park to. she saw the trees and farm farm,. onion very pretty. playing all after finished, her. was very to have the park with her mom the they more fun the.
+
+==================================== Step 37 ====================================
+
+[CLS] a time, there was lucy. she a. it was attractive and smile. lucy the park to. she saw flowers the trees and the farm farm,. onion very pretty. playing all after finished, her. was very to have the park with her mom the they more fun the.
+
+==================================== Step 38 ====================================
+
+[CLS] a time, there was lucy. she a. it was attractive and smile. day lucy the park to. she saw flowers the trees and the farm farm, onions. onion very pretty. playing all after finished, went her. was very to have the park with her mom the onion they more fun the.
+
+==================================== Step 39 ====================================
+
+[CLS] a time, there was lucy. she a. it was attractive and made smile. day lucy the park to. she saw flowers the trees and the farm farm, onions. onion very pretty. playing all after finished, went her. was very to have the park with her mom the onion they more fun the.
+
+==================================== Step 40 ====================================
+
+[CLS] a time, there was lucy. she a. it was very attractive and made smile. day lucy the park to. she saw flowers the trees and the farm farm, onions. onion very pretty. playing all after finished, went her. was very to have the park with her mom the onion they more fun the.
+
+==================================== Step 41 ====================================
+
+[CLS] a time, there was named lucy. she a. it was very attractive and made smile. day lucy the park to. she saw flowers, the trees and the farm farm, onions. onion very pretty. playing all after finished, went her. was very to have the park with her mom the onion they more fun the.
+
+==================================== Step 42 ====================================
+
+[CLS] a time, there was named lucy. she a. it was very attractive and made smile. day lucy the park to. she saw flowers, the trees, and the farm farm, onions. onion very pretty. playing, all after finished, went her. was very to have the park with her mom the onion they more fun at the.
+
+==================================== Step 43 ====================================
+
+[CLS] a time, there was named lucy. she a. it was very attractive and made smile. day lucy the park to. she saw flowers, the trees, and the farm farm, onions. tomatoes onion very pretty. playing, all after finished, went her. was very to have the park with her mom the onion they planned more fun at the.
+
+==================================== Step 44 ====================================
+
+[CLS] a time, there was named lucy. she a. it was very attractive and made smile. day lucy went the park to. she saw flowers, the trees, and the farm farm, onions. tomatoes onion were very pretty. playing, all after finished, went her mom. she was very to have the park with her mom the onion they planned more fun at the.
+
+==================================== Step 45 ====================================
+
+[CLS] a time, there was named lucy. she a. it was very attractive and made smile. day lucy went the park to. she saw flowers, the trees, and the farm farm, onions. orange tomatoes onion were very pretty. playing, watered all after finished, went her mom. she was very to have the park with her mom the onion they planned more fun at the.
+
+==================================== Step 46 ====================================
+
+[CLS] a time, there was named lucy. she a. it was very attractive and made smile. day lucy went the park to. she saw flowers, the trees, and the farm farm, onions. orange tomatoes onion were very pretty. playing, watered all after finished, went her mom. she was very to have the park with her mom the onion they planned more fun at the.
+
+==================================== Step 47 ====================================
+
+[CLS] a time, there was named lucy. she a. it was very attractive and made smile. day lucy went the park to. she saw flowers, the trees, and the farm farm, onions. orange tomatoes and onion were very pretty. playing, watered all after finished planting, went her mom. she was very to have seen the park with her mom and the onion they planned more fun at the.
+
+==================================== Step 48 ====================================
+
+[CLS] a time, there was named lucy. she a. it was very attractive and made smile. day lucy went the park to. she saw flowers, the trees, and the farm farm, onions. orange tomatoes and onion were very pretty. playing, watered all after finished planting, went to her mom. she was very to have seen the park with her mom and the onion they planned more fun at the.
+
+==================================== Step 49 ====================================
+
+[CLS] a time, there was named lucy. she a dress. it was very attractive and made smile. day lucy went the park to. she saw flowers, the trees, and the farm farm, lucy onions. they orange tomatoes, and onion were very pretty. playing, watered all after finished planting, went to her mom. she was very to have seen the park with her mom and the onion they planned more fun at the.
+
+==================================== Step 50 ====================================
+
+[CLS] a time, there was named lucy. she a dress. it was very attractive and made smile. day lucy went the park to. she saw flowers, the trees, and the farm farm, lucy onions. they orange tomatoes, and onion were very pretty. playing, watered all after finished planting, went to her mom. she was very to have seen the park with her mom and the onion they planned more fun at the.
+
+==================================== Step 51 ====================================
+
+[CLS] once a time, there was named lucy. she a dress. it was very attractive and made smile. day lucy went to the park to. she saw flowers, the trees, and the farm farm, lucy saw onions. they orange tomatoes, and onion. were very pretty. playing, watered all after finished planting, went to her mom. she was very to have seen the park with her mom and the onion they planned more fun at the day.
+
+==================================== Step 52 ====================================
+
+[CLS] once a time, there was named lucy. she a dress. it was very attractive and made her smile. day lucy went to the park to. she saw flowers, the trees, and the farm farm, lucy saw onions. they orange tomatoes, and onion. thought were very pretty. playing, watered all after lucy finished planting, went to her mom. she was very to have seen the park with her mom and the onion they planned more fun at the day.
+
+==================================== Step 53 ====================================
+
+[CLS] once a time, there was named lucy. she a dress. it was very attractive and made her smile. day lucy went to the park to. she saw flowers, the trees, and the farm farm, lucy saw onions. they orange tomatoes, and onion. thought were very pretty. playing, watered all vegetables after lucy finished planting, went to her mom. she was very happy to have seen the park with her mom and the onion they planned more fun at the day.
+
+==================================== Step 54 ====================================
+
+[CLS] once a time, there was little named lucy. she a dress. it was very attractive and made her smile. day lucy went to the park to. she saw flowers, the trees, and the farm farm, lucy saw onions. they orange tomatoes, and onion. thought were very pretty. after playing, watered all vegetables after lucy finished planting, went to her mom. she was very happy to have seen the park with her mom and the onion they planned more fun at the every day.
+
+==================================== Step 55 ====================================
+
+[CLS] once a time, there was little named lucy. she a dress. it was very attractive and made her smile. day, lucy went to the park to. she saw flowers, the trees, and the farm farm, lucy saw onions. they orange tomatoes, and onion. thought were very pretty. after playing, lucy watered all her vegetables after lucy finished planting, went to her mom. she was very happy to have seen the park with her mom and the onion they planned more fun at the park every day.
+
+==================================== Step 56 ====================================
+
+[CLS] once a time, there was little named lucy. she a dress. it was very attractive and made her smile. one day, lucy went to the park to. she saw flowers, the trees, and the farm farm, lucy saw onions. they orange tomatoes, and onion. thought they were very pretty. after playing, lucy watered all her vegetables after lucy finished planting, went to her mom. she was very happy to have seen the park with her mom and the onion they planned more fun at the park every day.
+
+==================================== Step 57 ====================================
+
+[CLS] once a time, there was a little named lucy. she a nice dress. it was very attractive and made her smile. one day, lucy went to the park to. she saw flowers, the trees, and the farm the farm, lucy saw onions. they orange tomatoes, and onion. thought they were very pretty. after playing, lucy watered all her vegetables after lucy finished planting, went to her mom. she was very happy to have seen the park with her mom and the onion they planned more fun at the park every day.
+
+==================================== Step 58 ====================================
+
+[CLS] once a time, there was a little named lucy. she a nice dress. it was very attractive and made her smile. one day, lucy went to the park to. she saw the flowers, the trees, and the farm the farm, lucy saw onions. they orange tomatoes, and onion. thought they were very pretty. after playing, lucy watered all her vegetables after lucy finished planting, went to her mom. she was very happy to have seen the park with her mom and the onion they planned more fun at the park every day.
+
+==================================== Step 59 ====================================
+
+[CLS] once upon a time, there was a little girl named lucy. she had a nice dress. it was very attractive and made her smile. one day, lucy went to the park to play. she saw the flowers, the trees, and the farm. the farm, lucy saw many onions. they orange tomatoes, and onion. thought they were very pretty. after playing, lucy watered all her vegetables after lucy finished planting, went to her mom. she was very happy to have seen the park with her mom and the onion they planned more fun days at the park every day.
+
+==================================== Step 60 ====================================
+
+[CLS] once upon a time, there was a little girl named lucy. she had a nice dress. it was very attractive and made her smile. one day, lucy went to the park to play. she saw the flowers, the trees, and the farm. the farm, lucy saw many onions. they orange tomatoes, and onion. she thought they were very pretty. after playing, lucy watered all her vegetables after lucy finished planting, went to her mom. she was very happy to have seen the park with her mom and the onion they planned more fun days at the park every day.
+
+==================================== Step 61 ====================================
+
+[CLS] once upon a time, there was a little girl named lucy. she had a nice dress. it was very attractive and made her smile. one day, lucy went to the park to play. she saw the flowers, the trees, and the farm. at the farm, lucy saw many onions. they orange tomatoes, and orange onion. she thought they were very pretty. after playing, lucy watered all her vegetables after lucy finished planting, went to her mom. she was very happy to have seen the park with her mom and the onion. they planned more fun days at the park every day.
+
+==================================== Step 62 ====================================
+
+[CLS] once upon a time, there was a little girl named lucy. she had a nice dress. it was very attractive and made her smile. one day, lucy went to the park to play. she saw the flowers, the trees, and the farm. at the farm, lucy saw many onions. they were orange tomatoes, and orange onion. she thought they were very pretty. after playing, lucy watered all her vegetables after lucy finished planting, went to her mom. she was very happy to have seen the park with her mom and the onion. they planned more fun days at the park every day.
+
+==================================== Step 63 ====================================
+
+[CLS] once upon a time, there was a little girl named lucy. she had a nice dress. it was very attractive and made her smile. one day, lucy went to the park to play. she saw the flowers, the trees, and the farm. at the farm, lucy saw many onions. they were orange tomatoes, and orange onion. she thought they were very pretty. after playing, lucy watered all her vegetables. after lucy finished planting, went to her mom. she was very happy to have seen the park with her mom and the onion. they planned more fun days at the park every day.
+
+==================================== Step 64 ====================================
+
+[CLS] once upon a time, there was a little girl named lucy. she had a nice dress. it was very attractive and made her smile. one day, lucy went to the park to play. she saw the flowers, the trees, and the farm. at the farm, lucy saw many onions. they were orange tomatoes, and orange onion. she thought they were very pretty. after playing, lucy watered all her vegetables. after lucy finished planting, she went to her mom. she was very happy to have seen the park with her mom and the onion. they planned more fun days at the park every day.
